@@ -1,5 +1,5 @@
 hellow word
 git is good
 master branch
-sjf is cool man
+sjf is a cool man
 
